@@ -1,53 +1,53 @@
 {
-  'products':[
+  "products":[
     {
-      id: '1',
-      image: 'assets/images/trivium-shirt-1.png',
-      title: 'Trivium Hawk Arch T-Shirt',
+      id: "1",
+      image: "assets/images/trivium-shirt-1.png",
+      title: "Trivium Hawk Arch T-Shirt",
       price: 25,
-      description: 'This Trivium Hawk Arch Tee features a hawk illustration printed in an arch design on the back. The Trivium T Logo is also printed on the front pocket area in the same light blue print on this unisex, crewneck t-shirt.'
+      description: "This Trivium Hawk Arch Tee features a hawk illustration printed in an arch design on the back. The Trivium T Logo is also printed on the front pocket area in the same light blue print on this unisex, crewneck t-shirt."
     },
     {
-      id: '2',
-      image: 'assets/images/trivium-shirt-2.jpg',
-      title: 'Trivium Cobra Skull T-Shirt',
+      id: "2",
+      image: "assets/images/trivium-shirt-2.jpg",
+      title: "Trivium Cobra Skull T-Shirt",
       price: 25,
-      description: 'The Trivium "Cobra Skull" design here is printed on a women\'s t-shirt.  The slim fit shirt has a more feminine cut than our unisex tees.'
+      description: "The Trivium "Cobra Skull" design here is printed on a women\"s t-shirt.  The slim fit shirt has a more feminine cut than our unisex tees."
     },
     {
-      id: '3',
-      image: 'assets/images/trivium-shirt-3.jpg',
-      title: 'Trivium Rustic Oni T-Shirt',
+      id: "3",
+      image: "assets/images/trivium-shirt-3.jpg",
+      title: "Trivium Rustic Oni T-Shirt",
       price: 25,
-      description: 'The Trivium "Rustic Oni" design here is printed on a women\'s t-shirt.  The slim fit is made to hang a bit looser, but has a more feminine cut than our unisex tees.'
+      description: "The Trivium "Rustic Oni" design here is printed on a women\"s t-shirt.  The slim fit is made to hang a bit looser, but has a more feminine cut than our unisex tees."
     },
     {
-      id: '4',
-      image: 'assets/images/trivium-shirt-4.png',
-      title: 'Trivium Pillars T-Shirt',
+      id: "4",
+      image: "assets/images/trivium-shirt-4.png",
+      title: "Trivium Pillars T-Shirt",
       price: 25,
-      description: 'The Trivium "Pillars T-Shirt" here features TRIVIUM and "GIVE ME SPARK TO LIGHT THE WORLD UP IN FLAMES REIGNITE A CHANGING" in white text on the front of the design. This design is on a unisex black 100% cotton t-shirt.'
+      description: "The Trivium "Pillars T-Shirt" here features TRIVIUM and "GIVE ME SPARK TO LIGHT THE WORLD UP IN FLAMES REIGNITE A CHANGING" in white text on the front of the design. This design is on a unisex black 100% cotton t-shirt."
     },
     {
-      id: '5',
-      image: 'assets/images/trivium-backpack-1.jpg',
-      title: 'Trivium Backpack',
+      id: "5",
+      image: "assets/images/trivium-backpack-1.jpg",
+      title: "Trivium Backpack",
       price: 30,
-      description: 'This Monster Patch Backpack from Trivium features a patch w/ the lyrics, Real Monsters Lie Between The Light And The Shade” along with the Trivium logo.'
+      description: "This Monster Patch Backpack from Trivium features a patch w/ the lyrics, Real Monsters Lie Between The Light And The Shade” along with the Trivium logo."
     },
     {
-      id: '6',
-      image: 'assets/images/trivium-dad_hat-1.jpg',
-      title: 'Trivium Dad Hat',
+      id: "6",
+      image: "assets/images/trivium-dad_hat-1.jpg",
+      title: "Trivium Dad Hat",
       price: 15,
-      description: 'This Triangle Flame Dad Hat features the volcano logo embroidered in white on the front of a black dad hat. Trivium is embroidered above the adjustable strap on the back, and "VIII" is featured on the side.'
+      description: "This Triangle Flame Dad Hat features the volcano logo embroidered in white on the front of a black dad hat. Trivium is embroidered above the adjustable strap on the back, and "VIII" is featured on the side."
     },
     {
-      id: '7',
-      image: 'assets/images/trivium-knit_blanket-1.jpg',
-      title: 'Trivium Knit Blanket',
+      id: "7",
+      image: "assets/images/trivium-knit_blanket-1.jpg",
+      title: "Trivium Knit Blanket",
       price: 60,
-      description: 'The Emblem Knit Blanket from Trivium features a collage of illustrated logos and graphics plus decorative fringe. The band name is also printed across the bottom. Perfect for picnics and outdoor concerts or as a fun statement throw blanket for your bed or couch at home.'
+      description: "The Emblem Knit Blanket from Trivium features a collage of illustrated logos and graphics plus decorative fringe. The band name is also printed across the bottom. Perfect for picnics and outdoor concerts or as a fun statement throw blanket for your bed or couch at home."
     }
   ]
 }
